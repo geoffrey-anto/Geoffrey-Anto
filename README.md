@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UCa6cGJzXI_xCUKwM3ZaB4kw">Geoffrey Anto!</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://github.com/Geoffrey-Anto/">Geoffrey Anto!</a></h1>
 <h3 align="center">Web Developer | Machine Learning Enthusiast </h3>
 
 ![Linkedin: GeoffreyAnto](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/geoffrey-anto/)
