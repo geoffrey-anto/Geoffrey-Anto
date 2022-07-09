@@ -1,10 +1,12 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://github.com/Geoffrey-Anto/">Geoffrey Anto!</a></h1>
 <h3 align="center">Web Developer | Machine Learning Enthusiast </h3>
 
-![Linkedin: GeoffreyAnto](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/geoffrey-anto/)
+<a href="https://www.linkedin.com/in/geoffrey-anto/">![Linkedin: GeoffreyAnto](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/geoffrey-anto/)</a>
 
-- <h4>⚡Currently working on Next.Js and Deep Learning</h4>
-- <h4>🌱 Currently Learning Native Android Development with Kotlin</h4>
+<h3>A Student From VIT Chennai, With Interest In Technology And Development And Proficient Skills In Web Development And Machine Learning. </h3>
+
+- <h5>⚡Currently working on Next.Js and GraphQL</h5>
+- <h5>🌱 Currently Learning Native Android Development with Kotlin And Deep Learning</h5>
 
 <h2>Languages And Tools</h2>
 
