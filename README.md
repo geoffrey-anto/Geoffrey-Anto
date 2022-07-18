@@ -3,7 +3,7 @@
 
 <a href="https://www.linkedin.com/in/geoffrey-anto/">![Linkedin: GeoffreyAnto](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/geoffrey-anto/)</a>
 
-<h3>A Student From VIT Chennai, With Interest In Technology And Development And Proficient Skills In Web Development And Machine Learning. </h3>
+<h3>A Student From VIT Chennai, With Interest In Technology, Development And Proficient Skills In Web Development And Machine Learning. </h3>
 
 - <h5>⚡Currently working on Next.Js and GraphQL</h5>
 - <h5>🌱 Currently Learning Native Android Development with Kotlin And Deep Learning</h5>
