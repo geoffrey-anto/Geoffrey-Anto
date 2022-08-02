@@ -3,7 +3,7 @@
 
 <a href="https://www.linkedin.com/in/geoffrey-anto/">![Linkedin: GeoffreyAnto](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/geoffrey-anto/)</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Geoffrey-Anto&label=Profile%20views&color=0e75b6&style=flat" alt="adicoder123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Geoffrey-Anto&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 <h3>A Student From VIT Chennai, With Interest In Technology, Development And Proficient Skills In Web Development And Machine Learning. </h3>
 
