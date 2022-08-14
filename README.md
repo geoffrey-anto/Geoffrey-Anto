@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://github.com/Geoffrey-Anto/">Geoffrey Anto!</a></h1>
+<h1 align="center"> Hi <img alt="wave" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width=3.5%>, I'm <a href="https://github.com/Geoffrey-Anto/">Geoffrey Anto!</a></h1>
 <h3 align="center">Web Developer | Machine Learning Enthusiast </h3>
 
 <a href="https://www.linkedin.com/in/geoffrey-anto/">![Linkedin: GeoffreyAnto](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/geoffrey-anto/)</a>
