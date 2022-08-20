@@ -5,23 +5,30 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Geoffrey-Anto&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<h3>A Student From VIT Chennai, With Interest In Technology, Development And Proficient Skills In Web Development And Machine Learning. </h3>
+<h3>A Student From VIT Chennai, With Interest In Development And Proficient Skills In React And GraphQL </h3>
 
-- <h5>⚡Currently working on Next.Js and GraphQL</h5>
-- <h5>🌱 Currently Learning Native Android Development with Kotlin And Deep Learning</h5>
+<h5>⚡ Currently working on NextJS and Express</h5>
+
+
+<br/>
 
 <h2>Languages And Tools</h2>
 
 
-<img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>&nbsp;&nbsp; <img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"/> &nbsp;&nbsp;<img width="45" height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_AjvtgRN8bmNL9LuEWcuzst00FdtzIg5zOqlne6BNXiFE78056f7PVx95kKdko-oZowc&usqp=CAU"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/>&nbsp;
+<img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>&nbsp;&nbsp; <img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"/> &nbsp;&nbsp;<img width="45" height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_AjvtgRN8bmNL9LuEWcuzst00FdtzIg5zOqlne6BNXiFE78056f7PVx95kKdko-oZowc&usqp=CAU"/>
+&nbsp;&nbsp; <img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png"/>&nbsp; <img src="https://docs.nestjs.com/assets/logo-small.svg"  width="45" height="45" /> 
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
+<img src="https://img.icons8.com/color/48/000000/python.png"/>&nbsp;
 <img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png"/>&nbsp;
 <img width="45" height="45" src="https://user-images.githubusercontent.com/91791834/167806558-6c1ea251-2fa5-4083-95f5-ff4853264be9.png"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;
-<img width="45" height="45" src="https://pbs.twimg.com/profile_images/1399329694340747271/T5fbWxtN_400x400.png"/>&nbsp;
 
+<br/>
+
+## Contact
+- +91 8072907031
+- geoffreyanto12@gmail.com
 
 <!---
 Geoffrey-Anto/Geoffrey-Anto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
