@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Geoffrey-Anto&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<h3>A Student From VIT Chennai, With Interest In Development And Proficient Skills In React And GraphQL </h3>
+<h3>A Student From VIT Chennai, With Interest In Development And Proficient Skills In React And Backend Development </h3>
 
-<h5>⚡ Currently working on NextJS and Express</h5>
+<h5>⚡ Currently working on NextJS and tRPC</h5>
 
 
 <br/>
