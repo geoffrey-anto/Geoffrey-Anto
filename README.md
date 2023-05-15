@@ -5,9 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Geoffrey-Anto&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<h3>A Student From VIT Chennai, With Interest In Development And Proficient Skills In React And Backend Development </h3>
+<h3>A Student From VIT Chennai, Committed to delivering high-performance web applications 🚀 </h3>
 
-<h5>⚡ Currently working on NextJS and tRPC</h5>
+<h5>⚡ Currently working on T3 Stack</h5>
+
+<h5>👨‍💻 Exploring Blockchain</h5>
+
+<h5>💓 In love with TypeScript</h5>
 
 
 <br/>
@@ -21,8 +25,7 @@
 <img src="https://img.icons8.com/color/48/000000/python.png"/>&nbsp;
 <img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png"/>&nbsp;
 <img width="45" height="45" src="https://user-images.githubusercontent.com/91791834/167806558-6c1ea251-2fa5-4083-95f5-ff4853264be9.png"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;
+
 
 <br/>
 
