@@ -19,9 +19,10 @@
 <h2>Languages And Tools</h2>
 
 
-<img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>&nbsp;&nbsp; <img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"/> &nbsp;&nbsp;<img width="45" height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_AjvtgRN8bmNL9LuEWcuzst00FdtzIg5zOqlne6BNXiFE78056f7PVx95kKdko-oZowc&usqp=CAU"/>
+<img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>&nbsp;&nbsp;<img width="45" height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_AjvtgRN8bmNL9LuEWcuzst00FdtzIg5zOqlne6BNXiFE78056f7PVx95kKdko-oZowc&usqp=CAU"/> &nbsp;&nbsp; <img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"/>
 &nbsp;&nbsp; <img width="45" height="45" src="https://e7.pngegg.com/pngimages/247/558/png-clipart-node-js-javascript-express-js-npm-react-github-angle-text.png"/>&nbsp;
 <img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>&nbsp;
+<img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"/>&nbsp;
 
 <br/>
 
