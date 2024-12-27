@@ -5,7 +5,7 @@
 
  🔭 I’m currently working on **T3 Stack**
 
- 👨‍💻 I’m exploring **Blockchain**
+ 👨‍💻 I’m exploring **DevOps**
 
  💓 In love with **TypeScript**
 
